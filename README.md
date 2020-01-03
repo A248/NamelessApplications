@@ -11,3 +11,9 @@ Accordingly, I took an existing addon, **BanAppeal**, included by default, and r
 3. Choose which addons you'd like to use.
 4. Configure them by adding questions to the applications.
 5. Done!
+
+## Disclaimer
+I know very, very, very little PHP. My knowledge is limited to writing an 8-line redirection script.
+Please backup your website before using a program edited by someone who doesn't know the language.
+I do not assume any responsibility for any problems, issues, or catastrophes that may arise.
+I will note that I use these addons on my own NamelessMC website. Nevertheless, I keep constant backups.
