@@ -45,7 +45,7 @@ class BuilderApp {
 			if($data->count()){
 				$user_group = $data->results();
 				$user_group = $user_group[0]->group_id;
-				// Get whether the user can accept helper app from the groups table
+				// Get whether the user can accept builder app from the groups table
 				$data = $this->_db->get('groups', array('id', '=', $user_group));
 				if($data->count()){
 					$data = $data->results();
