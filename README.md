@@ -1,12 +1,12 @@
-# NamelessApplications
-Refactored versions of the NamelessMC addon [BanAppeal](https://github.com/NamelessMC/Nameless/tree/master/addons/BanAppeal).
+# NamelessApplications for NamelessMC v1
+Refactored versions of the addon [BanAppeal](https://github.com/NamelessMC/Nameless/tree/master/addons/BanAppeal).
 
 ## Introduction
 I knew there was a StaffApplication module; however, I wanted separate applications for helper and builder on my server.
-Accordingly, I took an existing addon, **BanAppeal**, included by default, and refactored it for helper and builder application modules.
+Accordingly, I took an existing addon, **BanAppeal**, included by default, and refactored it for helper and builder application modules. Later did I added the player report application using the same approach with the bug report addon.
 
 ## Usage
-1. Upload the folders /HelperApp/ and /BuilderApp/ you choose in your /addons/ directory of your NamelessMC forum.
+1. Upload the folders /addons/HelperApp/, /addons/BuilderApp/, and /addons/PlayerReport/ to your /addons/ directory of your NamelessMC installation.
 2. Go to AdminCP > Addons > Install Addon > Scan
 3. Choose which addons you'd like to use.
 4. Configure them by adding questions to the applications.
